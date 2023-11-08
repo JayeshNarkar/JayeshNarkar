@@ -1,7 +1,7 @@
 Hey🕴, My name is Jayesh Narkar
 ==============================
 
-Experienced coder with a two-year journey in programming under my belt. Proficient in C and C++, but my true forte lies in Python. I excel in leveraging Python's versatility and simplicity to solve complex problems and develop efficient solutions. Additionally, I have hands-on experience with the Flask web framework, allowing me to build dynamic and responsive web applications. My passion for coding drives me to continually expand my knowledge and seek innovative ways to tackle challenges in the world of software development.
+Still in the process of learning with a two-year journey in programming under my belt. Proficient in C and C++, but my true forte lies in Python. I excel in leveraging Python's versatility and simplicity to solve complex problems and develop efficient solutions. Additionally, I have hands-on experience with the Flask web framework, allowing me to build dynamic and responsive web applications. My passion for coding drives me to continually expand my knowledge and seek innovative ways to tackle challenges in the world of software development.
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [narkarjayesh1@gmail.com](mailto:narkarjayesh1@gmail.com)
