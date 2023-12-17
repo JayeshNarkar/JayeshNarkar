@@ -1,7 +1,17 @@
 Hey🕴, My name is Jayesh Narkar
 ==============================
 
-Still in the process of learning with a two-year journey in programming under my belt. Proficient in C and C++, but my true forte lies in Python. I excel in leveraging Python's versatility and simplicity to solve complex problems and develop efficient solutions. Additionally, I have hands-on experience with the Flask web framework, allowing me to build dynamic and responsive web applications. My passion for coding drives me to continually expand my knowledge and seek innovative ways to tackle challenges in the world of software development.
+I'm a software developer with advanced skills in Django and Python, and intermediate skills in JavaScript, C, and C++. I love problem-solving, learning new technologies, and building projects that make a difference.
+
+## Skills
+- **Advanced**: Django, Python
+- **Intermediate**: JavaScript, C, C++
+
+## Latest Project
+Do check out my latest project! It's a showcase of my skills, built with a tech stack that includes Django, Pandas, and Chart.js. I'm always open to feedback and collaboration.
+
+## Let's Connect
+Feel free to reach out to me for any exciting opportunities, collaborations, or just a chat. Looking forward to growing and learning with the GitHub community!
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [narkarjayesh1@gmail.com](mailto:narkarjayesh1@gmail.com)
