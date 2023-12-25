@@ -8,7 +8,7 @@ I'm a software developer with advanced skills in Django and Python, and intermed
 - **Intermediate**: JavaScript, C, C++
 
 ## Latest Project
-Do check out my latest project! It's a showcase of my skills, built with a tech stack that includes Django, Pandas, and Chart.js. I'm always open to feedback and collaboration.
+Data Visualizer, aims to provide a platform for data visualization and analytics. Leveraging Django's capabilities, it offers functionalities for user authentication, data management, and visualization. While also making use of pandas library to make complex calculations possible.
 
 ## Let's Connect
 Feel free to reach out to me for any exciting opportunities, collaborations, or just a chat. Looking forward to growing and learning with the GitHub community!
