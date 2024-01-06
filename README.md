@@ -29,4 +29,5 @@ Feel free to reach out to me for any exciting opportunities, collaborations, or 
 
 ## Resume
 
-https://flowcv.com/resume/drc5imgs3m
+[Resume](https://github.com/JayeshNarkar/JayeshNarkar/files/13849412/Jayesh-Narkar-FlowCV-Resume-20240106.pdf)
+
