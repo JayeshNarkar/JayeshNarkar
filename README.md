@@ -1,7 +1,7 @@
 Hey🕴, My name is Jayesh Narkar
 ==============================
 
-I'm a beginner fullstack developer currently specializing in react and in future will be learning next and other frameworks too!
+I'm a beginner fullstack developer currently specializing in MERN and in future wishing to learn more framework too!
 
 ## Let's Connect
 Feel free to reach out to me for any exciting opportunities, collaborations, or just a chat. Looking forward to growing and learning with the GitHub community!
